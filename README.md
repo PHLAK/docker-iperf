@@ -6,7 +6,7 @@ Docker container for iperf server
 
 ### Running the container
 
-    docker run -d --restart=always --name iperf phlak/iperf
+    docker run -d -p 5001:5001 --restart=always --name iperf phlak/iperf
 
 
 -----
