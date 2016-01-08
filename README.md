@@ -8,7 +8,13 @@ Docker container for iperf server
 
 ### Running the container
 
-    docker run -d -p 5001:5001 --restart=always --name iperf phlak/iperf
+    docker run -d -p 5001:5001 --name iperf phlak/iperf
+
+
+##### Optional arguments
+
+`--restart=always` - Always restart the container regardless of the exit status. See the Docker
+                     [restart policies](https://goo.gl/OI87rA) for additional details.
 
 
 -----
