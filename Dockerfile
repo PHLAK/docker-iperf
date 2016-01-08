@@ -5,4 +5,4 @@ MAINTAINER Chris Kankiewicz <Chris@ChrisKankiewicz.com>
 RUN apk add --update iperf \
     && rm -rf /var/cache/apk/*
 
-CMD ["iperf", "-s", "-p 5001"]
+CMD ["iperf", "-s"]
