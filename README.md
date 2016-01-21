@@ -1,7 +1,7 @@
 docker-iperf
 ============
 
-Docker container for iperf server
+Docker image for iperf server
 
 [![](https://badge.imagelayers.io/phlak/iperf:latest.svg)](https://imagelayers.io/?images=phlak/iperf:latest 'Get your own badge on imagelayers.io')
 
