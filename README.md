@@ -3,7 +3,7 @@ docker-iperf
 
 Docker image for iperf server
 
-[![](https://badge.imagelayers.io/phlak/iperf:latest.svg)](https://imagelayers.io/?images=phlak/iperf:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/phlak/iperf.svg)](https://microbadger.com/images/phlak/iperf "Get your own image badge on microbadger.com")
 
 
 ### Running the container
