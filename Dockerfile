@@ -1,8 +1,8 @@
-FROM alpine:3.4
+FROM alpine:3.6
 MAINTAINER Chris Kankiewicz <Chris@ChrisKankiewicz.com>
 
 # Define iperf version
-ENV IPERF_VERSION 2.0.5-r3
+ENV IPERF_VERSION 2.0.9-r1
 
 # Install iperf
 RUN apk add --update iperf=${IPERF_VERSION} && rm -rf /var/cache/apk/*
