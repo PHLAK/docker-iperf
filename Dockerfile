@@ -1,5 +1,5 @@
 FROM alpine:3.9
-MAINTAINER Chris Kankiewicz <Chris@ChrisKankiewicz.com>
+LABEL maintainer="Chris Kankiewicz <Chris@ChrisKankiewicz.com>"
 
 # Define iperf version
 ENV IPERF_VERSION 2.0.10-r1
