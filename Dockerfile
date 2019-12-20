@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.11.0
 LABEL maintainer="Chris Kankiewicz <Chris@ChrisKankiewicz.com>"
 
 # Define iperf version
