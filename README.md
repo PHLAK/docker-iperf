@@ -9,7 +9,7 @@ docker-iperf
     <a href="https://hub.docker.com/repository/docker/phlak/iperf/tags"><img alt="Docker Image Version" src="https://img.shields.io/docker/v/phlak/iperf?style=flat-square&sort=semver"></a>
     <a href="https://hub.docker.com/repository/docker/phlak/iperf"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/phlak/iperf?style=flat-square"></a>
     <a href="https://github.com/PHLAK/docker-iperf/blob/master/LICENSE"><img src="https://img.shields.io/github/license/PHLAK/docker-iperf?style=flat-square" alt="License"></a>
-    <a href="https://hub.docker.com/repository/docker/phlak/iperf/builds"><img alt="Docker Build Status" src="https://img.shields.io/docker/build/phlak/iperf?style=flat-square"></a>
+    <a href="https://hub.docker.com/repository/docker/phlak/iperf/builds"><img alt="Docker Cloud Build Status" src="https://img.shields.io/docker/cloud/build/phlak/iperf?style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Running the Container
 Troubleshooting
 ---------------
 
-For general help and support join our [Slack Workspace](https://ln.phlak.net/join-slack).
+For general help and support join our [GitHub Discussions](https://github.com/PHLAK/docker-iperf/discussions) or reach out on [Twitter](https://twitter.com/PHLAK).
 
 Please report bugs to the [GitHub Issue Tracker](https://github.com/PHLAK/docker-iperf/issues).
 
