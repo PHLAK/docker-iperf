@@ -5,4 +5,3 @@ updates:
   schedule:
     interval: monthly
     timezone: US/Arizona
-  open-pull-requests-limit: 10
